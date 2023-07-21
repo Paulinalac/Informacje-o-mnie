@@ -1,4 +1,3 @@
-# Informacje o mnie oraz zakres portfolio
 ## O mnie
 Nazywam się Paulina i obecnie pracuję na stanowisku doradca ds. bankowości elektronicznej. W mojej pracy mam przyjemność pracować zarówno z jirą, jak i programem Salesforce. Ukończyłam studia inżynierskie na kierunku informatyka oraz uzyskałam tytuł magistra z logistyki. Zakończyłam kurs o nazwie Podstawy manualnego testowania oprogramowania.
 
