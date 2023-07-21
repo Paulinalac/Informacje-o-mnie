@@ -1,0 +1,1 @@
+# Informacje-o-mnie-oraz-zakres-portfolio
